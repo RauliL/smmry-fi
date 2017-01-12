@@ -1,0 +1,15 @@
+{
+  "name": "smmry-fi",
+  "version": "0.1.0",
+  "description": "Summarizes articles and text written in Finnish",
+  "keywords": [
+    "summary",
+    "tldr",
+    "finnish"
+  ],
+  "author": "Rauli Laine",
+  "license": "MIT",
+  "dependencies": {
+    "snowball": "^0.3.1"
+  }
+}
