@@ -2,6 +2,11 @@
   "name": "smmry-fi",
   "version": "0.1.0",
   "description": "Summarizes articles and text written in Finnish",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RauliL/smmry-fi.git"
+  },
   "keywords": [
     "summary",
     "tldr",
@@ -9,6 +14,10 @@
   ],
   "author": "Rauli Laine",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RauliL/smmry-fi/issues"
+  },
+  "homepage": "https://github.com/RauliL/smmry-fi#readme",
   "dependencies": {
     "snowball": "^0.3.1"
   }
