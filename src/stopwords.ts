@@ -1,4 +1,4 @@
-module.exports = [
+export const stopwords = new Set<string>([
   "aiem",
   "aika",
   "aikais",
@@ -482,4 +482,4 @@ module.exports = [
   "yli",
   "ylös",
   "ympär",
-];
+]);
